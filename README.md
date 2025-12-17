@@ -99,13 +99,6 @@ Postman, Jest, Jira, Confluence
 
 ---
 
-## 📊 GitHub Stats (Low Noise)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamseelaa\&show_icons=true\&hide_title=true\&hide_rank=true\&count_private=true)
-
-
----
-
 ## 🎯 What I’m Looking For
 
 * Backend / API-focused roles
