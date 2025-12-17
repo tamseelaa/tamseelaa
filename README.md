@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Tamseela 👋
+Junior Software Engineer
 
-**Backend / API Developer | Computer Vision (Secondary)**
 Based in Helsinki, Finland 🇫🇮
 
-I build backend-heavy systems: APIs, data pipelines, and ML-backed applications. I care about **things that run**, not slides or coursework demos.
+I build backend systems: APIs, data pipelines, and ML-backed applications. I care about **things that run**.
 
 ---
 
@@ -67,8 +67,6 @@ Postman, Jest, Jira, Confluence
 
 * Built a job aggregation platform targeting the Finnish market
 * Scrapes **Jobly** and **Duunitori** via custom pipelines
-* End-to-end flow: scrape → process → categorize → translate → store
-* Full pipeline completes in ~5 minutes per run
 * Backend designed for easy addition of new job sources
 
 *Status: Active development (deployment in progress)*
@@ -83,8 +81,6 @@ Postman, Jest, Jira, Confluence
 * Developed a safety-violation detection system for industrial environments
 * Trained on 3,000+ annotated frames (images + video frames)
 * Used strict train / validation / test splits to select the final model
-* Achieved 90%+ accuracy on defined violation classes on the held-out test set
-* Integrated the model into an application-level inference pipeline
 
 ---
 
@@ -116,4 +112,7 @@ English (Fluent) • Finnish (A2) • Urdu (Native) • Punjabi (Speaking) • H
 
 ## 📫 Connect
 
-GitHub • LinkedIn • Email
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamseelaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamseela-mahmood-5b9900329/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamseela.dogar@gmail.com)
+
