@@ -1,23 +1,13 @@
 <!--
 **tamseelaa/tamseelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Tamseela 👋
-Junior Software Engineer
+Junior Software Developer
 
 Based in Helsinki, Finland 🇫🇮
 
-I build backend systems: APIs, data pipelines, and ML-backed applications. I care about **things that run**.
+I work on backend systems: APIs, data pipelines, and ML-supported applications. I care about **things that run**.
 
 ---
 
@@ -44,14 +34,14 @@ I build backend systems: APIs, data pipelines, and ML-backed applications. I car
 **Backend & Systems**
 Node.js, Express.js, REST APIs, Linux (Debian), Git
 
-**Languages (strength-ordered)**
+Languages (working proficiency)
 Java • JavaScript • C++ • Python
 
 **Databases**
 MongoDB, MySQL, Prisma
 
 **Computer Vision / ML**
-YOLO v11n and larger variants, dataset preparation, train/val/test splits
+YOLO v11n, dataset preparation, train/val/test splits
 
 **Tools**
 Postman, Jest, Jira, Confluence
@@ -60,47 +50,48 @@ Postman, Jest, Jira, Confluence
 
 ## 💻 Featured Projects
 
-### 🇫🇮 JobAio — Finnish Job Market Aggregator
+### 🇫🇮 JobAio — Finnish Job Market Aggregator (Team project)
 
 **Role:** Backend / Full-Stack Developer
 **Tech:** Node.js, React, Web Scraping, APIs, MongoDB
 
-* Built a job aggregation platform targeting the Finnish market
-* Scrapes **Jobly** and **Duunitori** via custom pipelines
-* Backend designed for easy addition of new job sources
+* Contributing to a job aggregation platform targeting the Finnish market in team setting
+* Application Scrapes **Jobly** and **Duunitori** via custom pipelines
+* Backend work for easy addition of new job sources
 
 *Status: Active development (deployment in progress)*
 
 ---
 
-### 👷 AI Safety Violation Detection — Computer Vision
+### 👷 AI Safety Violation Detection — Computer Vision (Team project)
 
-**Role:** ML / CV Developer
+**Role:** Computer Vision Developer
 **Tech:** Python, YOLO v11n+, Computer Vision
 
-* Developed a safety-violation detection system for industrial environments
-* Trained on 3,000+ annotated frames (images + video frames)
+*	Contributed to an AI-powered computer vision system for detecting occupational safety violations in industrial video streams
+* Trained and fine-tuned models on annotated frames (images + video frames)
 * Used strict train / validation / test splits to select the final model
 
 ---
 
-### ✈️ AIR9 — Airport Simulation System
+### ✈️ AIR9 — Airport Simulation System (Team project)
 
 **Role:** Backend Developer
 **Tech:** Java, JavaFX, Maven, MVC
 
-* Built a discrete-event airport simulation modeling passenger flow
-* Implemented reproducible simulations using seed-based execution
+* Contributed to a discrete-event airport simulation system modeling passenger flow and service handling
+* Implemented reproducible simulations using seed-based execution, Contributed to maintaining seed-based replay functionality while working on its events.
 * Applied OOP principles to manage complex system interactions
 
 ---
 
 ## 🎯 What I’m Looking For
 
-* Backend / API-focused roles
-* Full-stack roles with real backend ownership
-* Computer vision roles with deployment exposure
-* Internship, part-time, or junior positions (Finland or remote)
+- **Junior Backend / API-focused Software Developer roles**
+- **Junior Software Developer roles** with exposure to backend systems
+- **Full-stack roles** with clear backend contribution (Node.js, APIs)
+- **Entry-level Computer Vision / ML–adjacent roles** (implementation, data preparation, pipelines)
+- **Internship or part-time roles** (Finland or remote)
 
 ---
 
