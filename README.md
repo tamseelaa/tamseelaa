@@ -1,5 +1,6 @@
 <!--
-**tamseelaa/tamseelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tamseelaa/tamseelaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 
 # Hi, I'm Tamseela 👋
@@ -34,7 +35,7 @@ I work on backend systems: APIs, data pipelines, and ML-supported applications. 
 **Backend & Systems**
 Node.js, Express.js, REST APIs, Linux (Debian), Git
 
-Languages (working proficiency)
+**Languages (working proficiency)**
 Java • JavaScript • C++ • Python
 
 **Databases**
@@ -65,7 +66,7 @@ Postman, Jest, Jira, Confluence
 
 ### 👷 AI Safety Violation Detection — Computer Vision (Team project)
 
-**Role:** Computer Vision Developer
+**Role:** Computer Vision / ML Contributor
 **Tech:** Python, YOLO v11n+, Computer Vision
 
 *	Contributed to an AI-powered computer vision system for detecting occupational safety violations in industrial video streams
