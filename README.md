@@ -14,11 +14,10 @@ I work on backend systems: APIs, data pipelines, and ML-supported applications. 
 
 ## 🚀 About Me
 
-* Backend & API development is my strongest skill
-* Secondary focus on **Machine Learning and computer vision systems**
+* Backend and API development, and Database are my strongest skill
 * IT Engineering student at Metropolia UAS
 * Internship experience in an enterprise cloud services environment (IBM / Nordcloud)
-* Currently turning projects into deployed, production-style systems
+* Currently working on Software Development projects.
 
 ---
 
@@ -39,7 +38,7 @@ Node.js, Express.js, REST APIs, Linux (Debian), Git
 Java • JavaScript • C++ • Python
 
 **Databases**
-MongoDB, MySQL, Prisma
+MongoDB, MySQL, Prisma, MariaDB
 
 **Computer Vision / ML**
 YOLO v11n, dataset preparation, train/val/test splits
@@ -53,14 +52,13 @@ Postman, Jest, Jira, Confluence
 
 ### 🇫🇮 JobAio — Finnish Job Market Aggregator (Team project)
 
-**Role:** Backend / Full-Stack Developer
+**Role:** Backend
 **Tech:** Node.js, React, Web Scraping, APIs, MongoDB
 
-* Contributing to a job aggregation platform targeting the Finnish market in team setting
+* Contributing to a job aggregation platform project targeting the Finnish market in team setting
 * Application Scrapes **Jobly** and **Duunitori** via custom pipelines
 * Backend work for easy addition of new job sources
 
-*Status: Active development (deployment in progress)*
 
 ---
 
@@ -88,11 +86,11 @@ Postman, Jest, Jira, Confluence
 
 ## 🎯 What I’m Looking For
 
+- **Internship or part-time roles** (Finland or remote)
 - **Junior Backend / API-focused Software Developer roles**
 - **Junior Software Developer roles** with exposure to backend systems
 - **Full-stack roles** with clear backend contribution (Node.js, APIs)
 - **Entry-level Computer Vision / ML–adjacent roles** (implementation, data preparation, pipelines)
-- **Internship or part-time roles** (Finland or remote)
 
 ---
 
