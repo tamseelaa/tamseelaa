@@ -5,19 +5,15 @@
 
 # Hi, I'm Tamseela 👋
 Junior Software Developer
-
-Based in Helsinki, Finland 🇫🇮
-
 I work on backend systems: APIs, data pipelines, and ML-supported applications. I care about **things that run**.
 
 ---
 
 ## 🚀 About Me
 
-* Backend and API development, and Database are my strongest skill
-* IT Engineering student at Metropolia UAS
-* Internship experience in an enterprise cloud services environment (IBM / Nordcloud)
-* Currently working on Software Development projects.
+* Backend and API development, and Database are my strongest skill currently, diving deeper in ML area.
+* IT Engineering student at Metropolia UAS, Majoring in Software Engineering (Machine Learning)
+* Internship experiences in an enterprise cloud services environment (Nordcloud & Cloudnerve)
 
 ---
 
@@ -29,22 +25,52 @@ I work on backend systems: APIs, data pipelines, and ML-supported applications. 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+### 💻 Languages
+![Java]
+![C++]
+![Python]
+![JavaScript]
+![React]
+![HTML5]
+![CSS3]
 
-**Backend & Systems**
-Node.js, Express.js, REST APIs, Linux (Debian), Git
+### Frameworks 
+![Sprint Boot]
+![Maven]
+![Node.js]
+![React]
+![Express.js]
 
-**Languages (working proficiency)**
-Java • JavaScript • C++ • Python
+### 🗄 Databases & Cloud:
+![MongoDB]
+![MySQL]
+![MariaDB]
+![Prisma]
+![AWS]
 
-**Databases**
-MongoDB, MySQL, Prisma, MariaDB
+### 🤖 AI / CV / LLM
+![YOLO]
+![Gemini API]
+![Ollama]
+![Hugging Face]
+![OpenCV]
 
-**Computer Vision / ML**
-YOLO v11n, dataset preparation, train/val/test splits
+### 🚀 DevOps & Self Hosting
+![Docker]
+![GitHub Actions]
+![Jenkins]
+![SonarQube]
+![Ubuntu Server]
+![Kali Linux Server]
 
-**Tools**
-Postman, Jest, Jira, Confluence
+### 🔧 Tools
+![Git]
+![GitHub Actions]
+![Postman]
+![Jira]
+![Confluence]
+![JMeter]
 
 ---
 
@@ -84,12 +110,10 @@ Postman, Jest, Jira, Confluence
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 I’m Looking For
 
 - **Internship or part-time roles** (Finland or remote)
-- **Junior Backend / API-focused Software Developer roles**
 - **Junior Software Developer roles** with exposure to backend systems
-- **Full-stack roles** with clear backend contribution (Node.js, APIs)
 - **Entry-level Computer Vision / ML–adjacent roles** (implementation, data preparation, pipelines)
 
 ---
@@ -99,10 +123,4 @@ Postman, Jest, Jira, Confluence
 English (Fluent) • Finnish (A2) • Urdu (Native) • Punjabi (Speaking) • Hindi (Speaking)
 
 ---
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamseelaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamseela-mahmood-5b9900329/)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamseela.dogar@gmail.com)
 
