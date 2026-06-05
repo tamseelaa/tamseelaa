@@ -140,7 +140,7 @@ Junior Software Developer, I work on backend systems: APIs, data pipelines, and 
 **Role:** Computer Vision / ML
 **Tech:** Python, YOLO v11n+, Computer Vision
 
-- Contributed to the development of a computer vision system for detecting occupational safety violations from industrial video footage
+- Contributed to the development of computer vision system to detect occupational safety violations from industrial video footage
 - Prepared and managed annotated datasets for object detection training
 - Trained and fine-tuned YOLOv11 models on image and video-frame datasets
 - Applied train/validation/test split strategies to evaluate model performance and support model selection
