@@ -112,6 +112,17 @@ Junior Software Developer, I work on backend systems: APIs, data pipelines, and 
 
 ## 💻 Featured Projects
 
+### ✍️ CL Booster — Professional Personalized Cover Letter(CL) Generator (Team Project)
+
+**Role:** Backend Developer
+**Tech:** Java, Spring Boot, MariaDB, JPA, JUnit, CI/CD, AI Integration
+
+* Developed authentication, profile management, & core backend functionality and contributed to testing, code coverage analysis
+* Designed database models and application workflows to support scalable and maintainable system development
+* Enhanced AI-generated cover letter quality through context evaluation, prompt refinement, and language quality assurance
+
+---
+
 ### 🇫🇮 JobAio — Finnish Job Market Aggregator (Team project)
 
 **Role:** Backend Developer
@@ -121,7 +132,6 @@ Junior Software Developer, I work on backend systems: APIs, data pipelines, and 
 * Application Scrapes **Jobly** and **Duunitori** via custom pipelines
 * Designed database structures and backend components with extensibility in mind, enabling integration of additional job sources
 * Implemented job processing and translation functionality to improve accessibility of job listings
-
 
 ---
 
